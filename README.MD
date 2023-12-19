@@ -1,6 +1,6 @@
 # Chicago-Mansion-Website
 
-This is a website with three tabs. Each of them presents different information.
+This is a website with three tabs. Each of them presents different informations.
 
 ## Description
 
