@@ -11,7 +11,7 @@ At the bottom of the page, some icons serve to redirect the user to the social m
 
 ##  Application layout
 
-* Below are screenshots showing the layout of the page available on desktop.
+* Below are screenshots showing the layout of the page available on desktop and mobile phone.
 
 ![home_desktop.jpg](public%2Fhome_desktop.jpg)
 ![about_desktop.png](public%2Fabout_desktop.png)
