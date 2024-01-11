@@ -1,6 +1,10 @@
 # Chicago-Mansion-Website
 
-This is a website with three tabs. Each of them presents different informations.
+This is a website with three tabs. Each of them presents different information.
+
+## See the website
+
+[Link](https://weronikaczepiela.github.io/Chicago-Mansion-Website/)
 
 ## Description
 
