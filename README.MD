@@ -26,3 +26,4 @@ At the bottom of the page, some icons serve to redirect the user to the social m
 
 ![mobile.png](public%2Fmobile.png)
 
+
