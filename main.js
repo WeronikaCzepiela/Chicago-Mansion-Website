@@ -24,8 +24,6 @@ const hideAllSectionAndUndelrine = () => {
       })
 }
 
-console.log(MenuItemsMobile);
-
 const handleOnMenuItemClick = (middleSection, menuItem) => {
     hideAllSectionAndUndelrine();
     middleSection.classList.remove('hidden');
