@@ -4,7 +4,7 @@ This is a website with three tabs. Each of them presents different information.
 
 ## See the website
 
-If you want to see the website click the
+If you want to see the website click the:
 [Link](https://weronikaczepiela.github.io/Chicago-Mansion-Website/)
 
 ## Description
